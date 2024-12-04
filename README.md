@@ -1,6 +1,8 @@
-## Isaías Altoé
+## Isaías Altoé 
 
 ### About Me:
+I’m a 20-year-old Computer Science student at the Federal University of Espírito Santo (UFES). I enjoy building projects that help me learn new concepts and sharpen my programming skills. Currently, I am the Marketing Director of the Computer Science Academic Center at my university. I’m fluent in both Portuguese and English.   
+Currently learning postgreSQL and data base concepts. 
 
 ### Languages and Tools :
 <div>
@@ -13,11 +15,13 @@
 
 ### How to reach me:
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/isa%C3%ADas-alto%C3%A9-1822831b9/)">
+  <a href="https://www.linkedin.com/in/isa%C3%ADas-alto%C3%A9-1822831b9"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="isaiasaltoe7@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#category/social?compose=DmwnWstvKSkTxRcrtxmCtkzGqlxhtRXnPndgLHvXkCLfPSGMSJvhPLBDZXHhRGrbCcVtDZzQJmfL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  
+  <a href="https://instagram.com/isaiasaltoe"/>
+    <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
