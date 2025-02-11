@@ -21,7 +21,4 @@ Currently learning postgreSQL and data base concepts.
   <a href="https://mail.google.com/mail/u/0/#category/social?compose=DmwnWstvKSkTxRcrtxmCtkzGqlxhtRXnPndgLHvXkCLfPSGMSJvhPLBDZXHhRGrbCcVtDZzQJmfL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://instagram.com/isaiasaltoe"/>
-    <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
