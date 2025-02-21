@@ -1,7 +1,7 @@
 ## Isaías Altoé 
 
 ### About Me:
-I’m a 20-year-old Computer Science student at the Federal University of Espírito Santo (UFES). Currently, I am the Marketing Director of the Computer Science Academic Center at my university.  
+I’m a 21-year-old Computer Science student at the Federal University of Espírito Santo (UFES). Currently, I am the Marketing Director of the Computer Science Academic Center at my university.  
 Currently learning postgreSQL and data base concepts. 
 
 ### Languages and Tools :
