@@ -2,7 +2,7 @@
 
 ### About Me:
 I’m a 21-year-old Computer Science student at the Federal University of Espírito Santo (UFES). Currently, I am the Marketing Director of the Computer Science Academic Center at my university.  
-Currently learning postgreSQL and data base concepts. 
+Currently learning JavaScript
 
 ### Languages and Tools :
 <div>
@@ -10,6 +10,7 @@ Currently learning postgreSQL and data base concepts.
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
 </div>
 
 ### How to reach me:
