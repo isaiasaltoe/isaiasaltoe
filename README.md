@@ -25,7 +25,7 @@ Currently learning Ruby on Rails
   <a href="https://mail.google.com/mail/u/0/#category/social?compose=DmwnWstvKSkTxRcrtxmCtkzGqlxhtRXnPndgLHvXkCLfPSGMSJvhPLBDZXHhRGrbCcVtDZzQJmfL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="[https://mail.google.com/mail/u/0/#category/social?compose=DmwnWstvKSkTxRcrtxmCtkzGqlxhtRXnPndgLHvXkCLfPSGMSJvhPLBDZXHhRGrbCcVtDZzQJmfL](https://isaiasaltoe.github.io/portfolio/)">
+  <a href="https://isaiasaltoe.github.io/portfolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO%20%20%20-20B2AA?style=for-the-badge" alt="Portfolio"/>
   </a>
   
