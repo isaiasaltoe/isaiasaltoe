@@ -1,4 +1,4 @@
-## Isaías Altoé 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasaltoe&layout=compact)
 
 ### About Me:
 I’m a 21-year-old Computer Science student at the Federal University of Espírito Santo (UFES). Currently, I am the Marketing Director of the Computer Science Academic Center at my university, Project Advisor at Cinética Junior and Full Stack Intern at Contera IO.  
