@@ -1,13 +1,12 @@
-<h1> About Me:</h1>
+<h2>About Me</h2>
 I’m a Computer Science student at the Federal University of Espírito Santo (UFES) and intern full stack developer at V360. <br>  
-<h2>Skills: </h2>
-Ruby, Ruby on Rails, Bootstrap, Figma, SQL, learning Docker and React
+<h2>Skills </h2>
+Ruby, Ruby on Rails, Bootstrap, Figma, SQL, learning Docker and React. <br>
+
+<h2>How to reach me</h2>
 
 
-
-<div >
-<div id="badges" align="center">
-   <h1>How to reach me:</h1>
+<div>
   <a href="https://www.linkedin.com/in/isaiasaltoe"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,7 +17,7 @@ Ruby, Ruby on Rails, Bootstrap, Figma, SQL, learning Docker and React
     <img src="https://img.shields.io/badge/PORTFOLIO%20%20%20-20B2AA?style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
-</div>
+
 
 <p align="center" >
   <picture>
