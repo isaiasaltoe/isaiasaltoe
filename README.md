@@ -13,7 +13,7 @@ Ruby, Ruby on Rails, Bootstrap, Figma, SQL, learning Docker and React. <br>
   <a href="https://mail.google.com/mail/u/0/#category/social?compose=DmwnWstvKSkTxRcrtxmCtkzGqlxhtRXnPndgLHvXkCLfPSGMSJvhPLBDZXHhRGrbCcVtDZzQJmfL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https:altoe.dev">
+  <a href="https://altoe.dev">
     <img src="https://img.shields.io/badge/altoe.dev%20%20%20-20B2AA?style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
