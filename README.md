@@ -3,7 +3,7 @@ I’m a Computer Science student at the Federal University of Espírito Santo (U
 <h2>Skills </h2>
 Ruby, Ruby on Rails, Bootstrap, Figma, SQL, learning Docker and React. <br>
 
-<h2>How to reach me</h2>
+<h2>How to reach me:</h2> 
 
 
 <div>
