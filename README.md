@@ -1,4 +1,4 @@
-<h2>About Me</h2>
+<h1>About Me</h1>
 I’m a Computer Science student at the Federal University of Espírito Santo (UFES) and intern full stack developer at V360. <br>  
 <h2>Skills </h2>
 Ruby, Ruby on Rails, Bootstrap, Figma, SQL, learning Docker and React. <br>
@@ -19,21 +19,6 @@ Ruby, Ruby on Rails, Bootstrap, Figma, SQL, learning Docker and React. <br>
 </div>
 
 
-<p align="center" >
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasaltoe&layout=compact&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasaltoe&layout=compact&theme=default" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasaltoe&layout=compact&theme=default" 
-      alt="Top Languages" 
-    />
-  </picture>
-</p>
+
 
 ![Descrição do gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJqNHJsbTh1enppNWgxZjRjMTVnZDVvYWgzbThyMWQ3eTY4ZXM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsNVHN9L06bJZp953R/giphy.gif)
