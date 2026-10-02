@@ -1,0 +1,30 @@
+name: Atualizar fastfetch
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 3h (horário de Brasília)
+  workflow_dispatch:     # botão para rodar na mão
+  push:
+    paths: [gerar.py, logo.txt]
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 gerar.py
+        env:
+          FASTFETCH_TOKEN: ${{ secrets.FASTFETCH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add fastfetch.svg fastfetch-light.svg
+          git diff --cached --quiet || (git commit -m "Atualiza fastfetch" && git push)
