@@ -82,7 +82,7 @@ privados = sum(r["private"] for r in proprios)
 
 INFO = [
     ("OS", "MacOS, Linux"),
-    ("Uptime", idade()),
+    ("Age", idade()),
     ("Current role", "Software Developer at V360"),
     ("College", "Universidade Federal do Espírito Santo (UFES)"),
     ("Degree", "Computer Science ({green:85%})"),
